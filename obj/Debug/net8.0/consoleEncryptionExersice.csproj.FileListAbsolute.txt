@@ -1,0 +1,14 @@
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\bin\Debug\net8.0\consoleEncryptionExersice.exe
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\bin\Debug\net8.0\consoleEncryptionExersice.deps.json
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\bin\Debug\net8.0\consoleEncryptionExersice.runtimeconfig.json
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\bin\Debug\net8.0\consoleEncryptionExersice.dll
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\bin\Debug\net8.0\consoleEncryptionExersice.pdb
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.AssemblyInfoInputs.cache
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.AssemblyInfo.cs
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.csproj.CoreCompileInputs.cache
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.dll
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\refint\consoleEncryptionExersice.dll
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.pdb
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\consoleEncryptionExersice.genruntimeconfig.cache
+C:\Users\emilw\IdeaProjects\consoleEncryptionExersice\obj\Debug\net8.0\ref\consoleEncryptionExersice.dll
